@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(73, 22, 22);
+    color: white;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 45px;
+}
+
+header{
+    border-bottom: solid 5px white;
+    padding: 25px;
+    margin: -10px;
+}
+
+img{
+    width: 20;
+    height: 20;
+}
+
+.imagem2{
+    width: 30;
+    height: 30;
+}
